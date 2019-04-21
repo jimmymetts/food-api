@@ -1,0 +1,12 @@
+#container {
+    border: 2px solid black;
+  }
+
+  h2 {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    text-align: center
+
+  }
+

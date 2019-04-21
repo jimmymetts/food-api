@@ -1,0 +1,82 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "name": "Linguine",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "3248830692362"
+    },
+    {
+      "id": 2,
+      "name": "Massaman curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "8854404000829"
+    },
+    {
+      "id": 3,
+      "name": "Green curry",
+      "category": "curry",
+      "ethnicity": "thai",
+      "barcode": "0044738102353"
+    },
+    {
+      "id": 4,
+      "name": "Ravioli Funghi",
+      "category": "pasta",
+      "ethnicity": "italian",
+      "barcode": "8021733250892"
+    },
+    {
+      "id": 5,
+      "name": "Tuscan Soup",
+      "category": "vegetarian",
+      "ethnicity": "italian",
+      "barcode": "5000169116562"
+    },
+    {
+      "name": "burger",
+      "category": "fun",
+      "ethnicity": "american",
+      "id": 6,
+      "barcode": "3181232138451"
+    },
+    {
+      "name": "fries",
+      "category": "fun",
+      "ethnicity": "american",
+      "id": 7,
+      "barcode": "5010228012902"
+    },
+    {
+      "name": "fries",
+      "category": "fun",
+      "ethnicity": "american",
+      "id": 8,
+      "barcode": "5010228012902"
+    },
+    {
+      "name": "shake",
+      "category": "fun",
+      "ethnicity": "american",
+      "id": 9,
+      "barcode": "20573126"
+    },
+    {
+      "name": "apple pie",
+      "category": "fun",
+      "ethnicity": "american",
+      "id": 10,
+      "barcode": "0013964497106"
+    },
+    {
+      "name": "pancakes",
+      "category": "fun",
+      "ethnicity": "american",
+      "id": 11,
+      "barcode": "3292590825294"
+
+    }
+  ]
+}
